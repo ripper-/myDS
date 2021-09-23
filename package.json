@@ -1,5 +1,19 @@
 {
   "name": "rollup-starter-app",
+  "version": "0.0.1",
+  "description": "my Design System",
+  "productName": "myDS",
+  "copyright": "Copyright (C) BOSeverino, Inc. All Rights Reserved",
+  "main": "main.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ripper-/myDS.git"
+  },
+  "author": "BOSeverino",
+  "authors": [
+    "Bruno de Oliveira Severino"
+  ],
+  "private": true,
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-node-resolve": "^11.1.0",
