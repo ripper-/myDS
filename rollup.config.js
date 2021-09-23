@@ -5,7 +5,7 @@ import typescript from "@rollup/plugin-typescript";
 import { babel } from "@rollup/plugin-babel";
 import summary from "rollup-plugin-summary";
 import replace from "@rollup/plugin-replace";
-import postcss from 'rollup-plugin-postcss'
+import postcss from "rollup-plugin-postcss";
 
 // `npm run build` -> `production` is true
 // `npm run dev` -> `production` is false
